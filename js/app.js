@@ -1,6 +1,7 @@
 import { loadCSV } from "./dataLoader.js";
 import { evaluateTechniqueDistribution } from "./evaluator.js";
 import { renderBarChart } from "./visualizer.js";
+import { loadGuitarists } from './dataLoader.js';
 
 const guitaristSelect = document.getElementById("guitaristSelect");
 const chartContainer = document.getElementById("chartContainer");
@@ -9,12 +10,17 @@ const insightText = document.getElementById("insightText");
 let techniques = [];
 let sources = [];
 
-async function init() {
-  const guitarists = await loadCSV("data/guitarists.csv");
-  techniques = await loadCSV("data/techniques.csv");
-  sources = await loadCSV("data/sources.csv");
+const select = document.getElementById('guitaristSelect');
 
-  populateGuitaristSelect(guitarists);
+async function init() {
+  const guitarists = await loadGuitarists();
+
+  guitarists.forEach(g => {
+    const option = document.createElement('option');
+    option.value = g.id;       // or g.name
+    option.textContent = g.name;
+    select.appendChild(option);
+  });
 }
 
 function populateGuitaristSelect(guitarists) {
