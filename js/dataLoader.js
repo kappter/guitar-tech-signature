@@ -1,17 +1,14 @@
-export async function loadCSV(path) {
-  const response = await fetch(path);
+export async function loadGuitarists() {
+  const response = await fetch('data/guitarists.csv');
   const text = await response.text();
 
-  const lines = text.trim().split("\n");
-  const headers = lines.shift().split(",");
+  const rows = text.trim().split('\n');
+  const headers = rows.shift().split(',');
 
-  return lines.map(line => {
-    const values = line.split(",");
-    const entry = {};
-    headers.forEach((h, i) => {
-      entry[h.trim()] = values[i]?.trim();
-    });
-    return entry;
+  return rows.map(row => {
+    const values = row.split(',');
+    return Object.fromEntries(
+      headers.map((h, i) => [h.trim(), values[i].trim()])
+    );
   });
 }
-
