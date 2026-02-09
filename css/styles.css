@@ -103,3 +103,30 @@ body {
   font-size: 0.9rem;
 }
 
+.bar-wrapper {
+  margin-bottom: 1rem;
+}
+
+.bar-label {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.bar {
+  height: 22px;
+  border-radius: 4px;
+}
+
+.bar-beginner {
+  background-color: var(--beginner);
+}
+
+.bar-intermediate {
+  background-color: var(--intermediate);
+}
+
+.bar-advanced {
+  background-color: var(--advanced);
+}
