@@ -12,6 +12,9 @@ let sources = [];
 
 const select = document.getElementById('guitaristSelect');
 
+console.log('app.js loaded');
+loadGuitarists().then(data => console.log(data));
+
 async function init() {
   const guitarists = await loadGuitarists();
 
