@@ -1,1 +1,62 @@
+technique,category,tier,contextual,description
+Alternate Picking,Foundational,Beginner,false,Alternating down and up strokes
+Downstroke Picking,Foundational,Beginner,false,Picking exclusively with downstrokes
+Upstroke Picking,Foundational,Beginner,false,Picking exclusively with upstrokes
+Strumming,Foundational,Beginner,false,Rhythmic chord-based playing
+Fingerpicking,Foundational,Beginner,false,Plucking strings with fingers
+Palm Muting,Foundational,Beginner,false,Muting strings with picking hand
+Hammer-Ons,Foundational,Beginner,false,Sounding notes without picking
+Pull-Offs,Foundational,Beginner,false,Removing finger to sound lower note
+Slides,Foundational,Beginner,true,Sliding between pitches
+Vibrato,Expressive,Beginner,true,Pitch modulation using finger movement
+Bends,Expressive,Beginner,true,Raising pitch by bending string
+Power Chords,Foundational,Beginner,false,Two-note chord structures
+Open Chords,Foundational,Beginner,false,Chords using open strings
+Barre Chords,Foundational,Beginner,false,Chords fretted with index barre
+Single-Note Playing,Foundational,Beginner,false,Melodic note-by-note playing
+Riffs,Foundational,Beginner,false,Repeated melodic or rhythmic figures
+Basic Arpeggios,Foundational,Beginner,true,Broken chords played note by note
+Rhythm Guitar,Foundational,Beginner,false,Chord and groove-focused playing
+Lead Guitar,Expressive,Beginner,true,Melodic and solo-oriented playing
+Double Stops,Expressive,Beginner,true,Playing two notes simultaneously
+Octaves,Foundational,Beginner,false,Octave-based note patterns
+
+Hybrid Picking,Expressive,Intermediate,false,Pick plus fingers technique
+Sweep Picking,Expressive,Intermediate,true,Continuous picking across strings
+String Skipping,Expressive,Intermediate,false,Skipping adjacent strings
+Legato Playing,Expressive,Intermediate,false,Smooth note connection
+Natural Harmonics,Expressive,Intermediate,true,Lightly touched overtone notes
+Pinch Harmonics,Expressive,Intermediate,false,Artificial harmonic via thumb
+Tapping,Expressive,Intermediate,true,Using fretting hand to tap notes
+Tremolo Picking,Expressive,Intermediate,false,Rapid repeated picking
+Rake Picking,Expressive,Intermediate,false,Muted string sweep into note
+Percussive Strumming,Textural,Intermediate,false,Rhythm-forward striking technique
+Funk Muting,Textural,Intermediate,false,Muted rhythmic strumming
+Pedal Tones,Textural,Intermediate,false,Repeated anchor note
+Chord Inversions,Harmonic,Intermediate,false,Reordered chord tones
+Syncopation,Rhythmic,Intermediate,false,Accenting off-beats
+Odd Time Signatures,Rhythmic,Intermediate,false,Non-standard meter usage
+Dynamics Control,Expressive,Intermediate,false,Intentional volume shaping
+Accent Picking,Rhythmic,Intermediate,false,Emphasized note attacks
+Ghost Notes,Rhythmic,Intermediate,false,Muted or implied notes
+Slap Guitar,Textural,Intermediate,true,Percussive thumb slapping
+Banjo Rolls,Expressive,Intermediate,true,Rolling fingerpicking patterns
+Cross-String Trills,Expressive,Intermediate,true,Trills across strings
+
+Two-Handed Tapping,Advanced,Advanced,false,Independent tapping with both hands
+Extended Range Techniques,Advanced,Advanced,false,Use of extended fretboard range
+Hybrid Arpeggios,Advanced,Advanced,false,Complex mixed picking arpeggios
+Economy Picking,Advanced,Advanced,true,Directional pick efficiency
+Polyrhythms,Rhythmic,Advanced,false,Multiple rhythmic groupings
+Polymeter,Rhythmic,Advanced,false,Conflicting meters
+Microtonal Bending,Expressive,Advanced,false,Pitch bends beyond semitones
+Artificial Harmonics,Expressive,Advanced,true,Advanced harmonic techniques
+Behind-the-Nut Bends,Expressive,Advanced,false,Bending strings behind nut
+Tremolo Arm Techniques,Expressive,Advanced,false,Pitch modulation via tremolo arm
+Tremolo Arm Vibrato,Expressive,Advanced,false,Vibrato using tremolo arm
+Pitch Shifting Techniques,Advanced,Advanced,false,Intentional pitch manipulation
+Slide Guitar,Expressive,Advanced,true,Slide-based phrasing
+Feedback Control,Textural,Advanced,false,Intentional amp feedback shaping
+Volume Swells,Textural,Advanced,false,Gradual note attacks using volume
+Textural Playing,Textural,Advanced,false,Layered or atmospheric technique use
 
