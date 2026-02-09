@@ -1,1 +1,13 @@
-
+guitarist,technique,source_type,confidence,notes
+Adam Jones,Palm Muting,Guitar Tech Interview,0.95,Core rhythmic control
+Adam Jones,Downstroke Picking,Guitar Tech Interview,0.9,Heavy riff emphasis
+Adam Jones,Power Chords,Live Performance Analysis,0.95,Primary harmonic structure
+Adam Jones,Percussive Strumming,Guitar Tech Breakdown,0.9,Rhythmic guitar-as-percussion
+Adam Jones,Pick Slides,Live Performance Analysis,0.85,Used for transitions and endings
+Adam Jones,Odd Time Signatures,Song Analysis,0.9,Common in Tool compositions
+Adam Jones,Pedal Tones,Song Analysis,0.85,Sustained tonal anchors
+Adam Jones,Textural Playing,Guitar Tech Interview,0.95,Layered atmospheric approach
+Adam Jones,Volume Swells,Live Performance Analysis,0.8,Dynamic transitions
+Adam Jones,Feedback Control,Guitar Tech Interview,0.85,Intentional controlled feedback
+Adam Jones,Open Chords,Song Analysis,0.75,Used in quieter passages
+Adam Jones,Dynamics Control,Live Performance Analysis,0.9,Wide dynamic range
