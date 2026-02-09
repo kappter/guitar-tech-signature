@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guitar Tech Signature</title>
+
+  <link rel="icon" href="assets/icons/icon.ico" />
+  <link rel="stylesheet" href="css/reset.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <h1>Guitar Tech Signature</h1>
+    <p class="tagline">
+      Exploring guitarists through technique distribution, not rankings.
+    </p>
+  </header>
+
+  <main class="app-container">
+    <section class="controls">
+      <label for="guitaristSelect">Select Guitarist</label>
+      <select id="guitaristSelect">
+        <option value="">— Choose —</option>
+      </select>
+    </section>
+
+    <section class="visualization">
+      <h2>Technique Distribution</h2>
+      <div id="chartContainer">
+        <!-- Bar chart will render here -->
+      </div>
+    </section>
+
+    <section class="insight">
+      <h2>Insight</h2>
+      <p id="insightText">
+        Select a guitarist to view their technique signature.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Guitar Tech Signature • Technique over theatrics
+    </p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
 
