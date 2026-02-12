@@ -11,3 +11,108 @@ Adam Jones,Volume Swells,Live Performance Analysis,0.8,Dynamic transitions
 Adam Jones,Feedback Control,Guitar Tech Interview,0.85,Intentional controlled feedback
 Adam Jones,Open Chords,Song Analysis,0.75,Used in quieter passages
 Adam Jones,Dynamics Control,Live Performance Analysis,0.9,Wide dynamic range
+Jimi Hendrix,Feedback Control,Live Performance Analysis,0.95,Signature controlled feedback technique
+Jimi Hendrix,Bends,Live Performance Analysis,0.95,Expressive wide bends
+Jimi Hendrix,Vibrato,Live Performance Analysis,0.9,Intense vibrato technique
+Jimi Hendrix,Tremolo Arm Techniques,Live Performance Analysis,0.9,Innovative whammy bar usage
+Jimi Hendrix,Rhythm Guitar,Song Analysis,0.85,Strong rhythm foundation
+Jimi Hendrix,Lead Guitar,Live Performance Analysis,0.95,Revolutionary lead playing
+Jimi Hendrix,Chord Inversions,Song Analysis,0.8,Creative chord voicings
+Jimi Hendrix,Double Stops,Live Performance Analysis,0.85,Frequent use in solos
+Jimi Hendrix,Hammer-Ons,Live Performance Analysis,0.85,Fluid legato playing
+Jimi Hendrix,Pull-Offs,Live Performance Analysis,0.85,Smooth note transitions
+Jimi Hendrix,Alternate Picking,Guitar Tech Interview,0.8,Mixed with other techniques
+Jimi Hendrix,Strumming,Song Analysis,0.9,Rhythmic chord work
+Eddie Van Halen,Tapping,Guitar Tech Interview,0.98,Revolutionized two-handed tapping
+Eddie Van Halen,Tremolo Arm Techniques,Live Performance Analysis,0.95,Dive bombs and pitch manipulation
+Eddie Van Halen,Hammer-Ons,Live Performance Analysis,0.9,Fast legato runs
+Eddie Van Halen,Pull-Offs,Live Performance Analysis,0.9,Fluid note connections
+Eddie Van Halen,Alternate Picking,Guitar Tech Interview,0.85,Precise picking technique
+Eddie Van Halen,Artificial Harmonics,Guitar Tech Interview,0.9,Pinch harmonics mastery
+Eddie Van Halen,Vibrato,Live Performance Analysis,0.85,Wide expressive vibrato
+Eddie Van Halen,Power Chords,Song Analysis,0.9,Heavy rhythm foundation
+Eddie Van Halen,Palm Muting,Song Analysis,0.85,Tight rhythmic control
+Eddie Van Halen,Bends,Live Performance Analysis,0.85,Expressive note bending
+Eddie Van Halen,Hybrid Picking,Guitar Tech Interview,0.8,Pick and fingers combination
+Eddie Van Halen,Natural Harmonics,Song Analysis,0.85,Harmonic techniques
+David Gilmour,Bends,Live Performance Analysis,0.98,Signature emotional bends
+David Gilmour,Vibrato,Live Performance Analysis,0.95,Slow wide vibrato
+David Gilmour,Feedback Control,Live Performance Analysis,0.85,Controlled feedback use
+David Gilmour,Slides,Live Performance Analysis,0.85,Smooth pitch transitions
+David Gilmour,Lead Guitar,Song Analysis,0.95,Melodic solo approach
+David Gilmour,Dynamics Control,Live Performance Analysis,0.9,Wide dynamic range
+David Gilmour,Volume Swells,Song Analysis,0.8,Atmospheric swells
+David Gilmour,Alternate Picking,Guitar Tech Interview,0.75,Clean picking technique
+David Gilmour,Chord Inversions,Song Analysis,0.8,Sophisticated voicings
+David Gilmour,Double Stops,Live Performance Analysis,0.75,Occasional use
+Stevie Ray Vaughan,Bends,Live Performance Analysis,0.98,Aggressive powerful bends
+Stevie Ray Vaughan,Vibrato,Live Performance Analysis,0.95,Intense rapid vibrato
+Stevie Ray Vaughan,Hybrid Picking,Guitar Tech Interview,0.9,Pick and fingers technique
+Stevie Ray Vaughan,Alternate Picking,Live Performance Analysis,0.9,Strong picking attack
+Stevie Ray Vaughan,Strumming,Song Analysis,0.9,Powerful rhythm playing
+Stevie Ray Vaughan,Hammer-Ons,Live Performance Analysis,0.85,Fluid legato work
+Stevie Ray Vaughan,Pull-Offs,Live Performance Analysis,0.85,Smooth transitions
+Stevie Ray Vaughan,Double Stops,Live Performance Analysis,0.9,Frequent double stop use
+Stevie Ray Vaughan,Lead Guitar,Song Analysis,0.95,Blues-based lead playing
+Stevie Ray Vaughan,Rhythm Guitar,Song Analysis,0.9,Strong rhythm foundation
+Stevie Ray Vaughan,Tremolo Picking,Live Performance Analysis,0.8,Fast repeated notes
+Steve Vai,Tremolo Arm Techniques,Live Performance Analysis,0.98,Extreme whammy bar techniques
+Steve Vai,Tapping,Guitar Tech Interview,0.95,Advanced tapping patterns
+Steve Vai,Sweep Picking,Guitar Tech Interview,0.95,Fast arpeggio sweeps
+Steve Vai,Legato Playing,Live Performance Analysis,0.9,Smooth connected notes
+Steve Vai,Artificial Harmonics,Guitar Tech Interview,0.9,Advanced harmonic techniques
+Steve Vai,Alternate Picking,Guitar Tech Interview,0.9,Precise fast picking
+Steve Vai,String Skipping,Guitar Tech Interview,0.85,Complex patterns
+Steve Vai,Vibrato,Live Performance Analysis,0.85,Expressive vibrato
+Steve Vai,Extended Range Techniques,Song Analysis,0.85,Full fretboard usage
+Steve Vai,Hybrid Arpeggios,Guitar Tech Interview,0.8,Complex arpeggio patterns
+Steve Vai,Economy Picking,Guitar Tech Interview,0.85,Efficient picking motion
+Mark Knopfler,Fingerpicking,Live Performance Analysis,0.98,Signature fingerstyle technique
+Mark Knopfler,Hybrid Picking,Guitar Tech Interview,0.95,Fingers and thumb technique
+Mark Knopfler,Alternate Picking,Live Performance Analysis,0.85,Clean articulation
+Mark Knopfler,Lead Guitar,Song Analysis,0.9,Melodic lead approach
+Mark Knopfler,Rhythm Guitar,Song Analysis,0.9,Strong rhythm foundation
+Mark Knopfler,Hammer-Ons,Live Performance Analysis,0.85,Smooth legato
+Mark Knopfler,Pull-Offs,Live Performance Analysis,0.85,Clean note transitions
+Mark Knopfler,Slides,Live Performance Analysis,0.8,Subtle pitch changes
+Mark Knopfler,Dynamics Control,Live Performance Analysis,0.85,Nuanced volume control
+Mark Knopfler,Basic Arpeggios,Song Analysis,0.85,Fingerpicked arpeggios
+John Petrucci,Alternate Picking,Guitar Tech Interview,0.95,Extremely precise picking
+John Petrucci,Sweep Picking,Guitar Tech Interview,0.95,Fast clean sweeps
+John Petrucci,Legato Playing,Live Performance Analysis,0.9,Fluid legato runs
+John Petrucci,String Skipping,Guitar Tech Interview,0.9,Complex patterns
+John Petrucci,Tapping,Live Performance Analysis,0.85,Advanced tapping techniques
+John Petrucci,Economy Picking,Guitar Tech Interview,0.9,Efficient picking motion
+John Petrucci,Odd Time Signatures,Song Analysis,0.95,Complex meter usage
+John Petrucci,Polyrhythms,Song Analysis,0.9,Multiple rhythmic layers
+John Petrucci,Tremolo Picking,Live Performance Analysis,0.85,Fast repeated notes
+John Petrucci,Hybrid Arpeggios,Guitar Tech Interview,0.85,Complex arpeggio patterns
+John Petrucci,Palm Muting,Song Analysis,0.85,Tight rhythmic control
+Jimmy Page,Alternate Picking,Live Performance Analysis,0.85,Solid picking technique
+Jimmy Page,Bends,Live Performance Analysis,0.9,Expressive bending
+Jimmy Page,Vibrato,Live Performance Analysis,0.85,Classic vibrato
+Jimmy Page,Slide Guitar,Song Analysis,0.9,Frequent slide usage
+Jimmy Page,Rhythm Guitar,Song Analysis,0.9,Strong rhythm foundation
+Jimmy Page,Lead Guitar,Song Analysis,0.9,Melodic lead playing
+Jimmy Page,Power Chords,Song Analysis,0.95,Heavy riff foundation
+Jimmy Page,Textural Playing,Guitar Tech Interview,0.85,Layered approach
+Jimmy Page,Feedback Control,Live Performance Analysis,0.8,Controlled feedback
+Jimmy Page,Fingerpicking,Song Analysis,0.8,Acoustic fingerstyle
+Eric Clapton,Bends,Live Performance Analysis,0.95,Signature blues bends
+Eric Clapton,Vibrato,Live Performance Analysis,0.95,Classic blues vibrato
+Eric Clapton,Lead Guitar,Song Analysis,0.95,Blues-based lead playing
+Eric Clapton,Alternate Picking,Guitar Tech Interview,0.85,Clean picking technique
+Eric Clapton,Hammer-Ons,Live Performance Analysis,0.85,Smooth legato
+Eric Clapton,Pull-Offs,Live Performance Analysis,0.85,Fluid transitions
+Eric Clapton,Slides,Live Performance Analysis,0.85,Blues slide technique
+Eric Clapton,Rhythm Guitar,Song Analysis,0.85,Solid rhythm foundation
+Eric Clapton,Double Stops,Live Performance Analysis,0.8,Occasional use
+Eric Clapton,Dynamics Control,Live Performance Analysis,0.85,Expressive dynamics
+B.B. King,Vibrato,Live Performance Analysis,0.99,Signature butterfly vibrato
+B.B. King,Bends,Live Performance Analysis,0.95,Expressive blues bends
+B.B. King,Lead Guitar,Song Analysis,0.95,Melodic blues lead
+B.B. King,Single-Note Playing,Live Performance Analysis,0.9,Note-by-note phrasing
+B.B. King,Dynamics Control,Live Performance Analysis,0.9,Expressive volume control
+B.B. King,Alternate Picking,Guitar Tech Interview,0.75,Minimal picking technique
+B.B. King,Slides,Live Performance Analysis,0.8,Subtle pitch changes
+B.B. King,Double Stops,Live Performance Analysis,0.75,Occasional use
